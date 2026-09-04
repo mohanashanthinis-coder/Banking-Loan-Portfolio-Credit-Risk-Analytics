@@ -64,4 +64,6 @@ The primary objective is to transform raw banking data into actionable insights 
 
 ## 🚀 Outcome
 
-This project demonstrates an end-to-end **Data Analytics and Business Intelligence workflow**, combining Python, SQL, and Power BI to support data-driven banking decisions.
+Python: Cleaned the banking data and performed statistical and risk analysis. Found an 8.48% default rate and higher outstanding exposure in defaulted loans.
+SQL: Created the banking database and detailed loan view, then analyzed approvals, defaults, overdue loans, LTI, LTV, and recovery. Found higher risk in certain loan and customer segments.
+Power BI: Built an interactive dashboard to present loan performance, credit risk, overdue, and recovery insights, helping support better lending and risk-management decisions.
