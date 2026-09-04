@@ -1,6 +1,10 @@
 # Banking-Loan-Portfolio-Credit-Risk-Analytics
 An end-to-end **Banking Loan Portfolio & Credit Risk Analytics** project using **Python, MySQL, and Power BI** to analyze loan portfolio performance, customer risk, default behaviour, overdue accounts, collateral coverage, and recovery performance.
 
+<img width="889" height="499" alt="image" src="https://github.com/user-attachments/assets/53510c61-5a05-460d-a86a-89c4a3768629" />
+
+<img width="888" height="499" alt="image" src="https://github.com/user-attachments/assets/f9750c44-3bbb-440f-ae40-3ab5a419fc79" />
+
 ## 📌 Project Overview
 
 This project analyzes banking loan data to identify factors associated with **loan default risk** and evaluate the overall health of the loan portfolio. The project follows a structured analytics workflow from data cleaning and database development to statistical analysis and interactive Power BI dashboard reporting.
